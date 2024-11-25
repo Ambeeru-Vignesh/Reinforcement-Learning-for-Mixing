@@ -2,6 +2,8 @@
 2. To run the simulator with the provided scene, use this command:
 	For mac: /Applications/coppeliaSim.app/Contents/MacOS/coppeliaSim -GzmqRemoteApi.rpcPort=23004 /users/Sadman/Downloads/drive/Intro_AI_Mix/mix_intro_AI.ttt
 	For ubuntu: ./coppeliaSim.sh -GzmqRemoteApi.rpcPort=23004 /users/Sadman/Downloads/drive/Intro_AI_Mix/mix_intro_AI.ttt
+	For windows: "C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\coppeliaSim.exe" -GzmqRemoteApi.rpcPort=23004 "E:\Vignesh Ambeeru_Project2\mix_intro_AI.ttt"
+	(choose the path as per your system installation)
 3. Install ZeroMQ and Cbor:
 	python3 -m pip install pyzmq
 	python3 -m pip install cbor

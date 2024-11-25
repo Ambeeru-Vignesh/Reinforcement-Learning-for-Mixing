@@ -1,0 +1,2 @@
+For Episode 10: Total time taken for running in Coppelia Sim: 22.822810888290405 seconds
+Successful Trials for 10 trials: 10/10
